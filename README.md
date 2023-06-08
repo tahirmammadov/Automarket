@@ -1,5 +1,4 @@
 # Automarket
-Web Application
 
 This Web Application was created using the following technologies:
 * ASP.NET Core 7.0
